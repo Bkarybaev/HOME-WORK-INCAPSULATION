@@ -6,12 +6,15 @@ public class Main {
         University university1 = new University();
         University university2 = new University();
         University university3 = new University();
+
         School school1 = new School();
         School school2 = new School();
         School school3 = new School();
+
         Car car1 = new Car();
         Car car2 = new Car();
         Car car3 = new Car();
+
         Person person1 = new Person();
         Person person2 = new Person();
         Person person3 = new Person();
